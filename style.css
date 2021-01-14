@@ -1,0 +1,29 @@
+ img {
+     width: 500px;
+     height: 500px;
+     border-radius: 50px;
+     /* radius makes the img around  */
+     float: left;
+     margin: 10px;
+     /* margin gives the space to  the img*/
+     box-shadow: 5cm;
+     /* display: block; */
+     /* margin-left: auto;
+     margin-right: auto; */
+ }
+ 
+ .c {
+     font-family: 'Courier New', Courier, monospace;
+ }
+ 
+ p {
+     font-weight: bold;
+ }
+ 
+ .lio {
+     font-family: 'Courier New', Courier, monospace;
+ }
+ 
+ body {
+     background: lightblue url("img_tree.gif") no-repeat fixed center;
+ }
